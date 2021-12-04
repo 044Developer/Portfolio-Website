@@ -1,2 +1,3 @@
 # Portfolio-Website
-HTML &amp; CSS portfolio webiste 
+HTML &amp; CSS portfolio website 
+![Screenshot](Web-app-image.png)
